@@ -1,0 +1,1 @@
+Parses the HTTP request header and automatically adjusts the global application locale
